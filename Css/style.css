@@ -190,6 +190,7 @@ footer {
     html {
       font-size: 55%;
     }
-    img{
-        width:70%;
+    .image img{
+        width:120%;
+        min-width:100%;
   }
