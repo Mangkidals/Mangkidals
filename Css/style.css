@@ -115,9 +115,6 @@ section{
     align-items: center;
     padding: 3rem;
 }
-.about .row .about-image img{
-    width: 50%;
-}
 .about .row .image img{
     border-radius: 1%;
     display: block;
